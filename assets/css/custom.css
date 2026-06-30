@@ -1,0 +1,10 @@
+/* Make About Me content links blue instead of the theme's default green (#0E710E) */
+.page__content a,
+.page__content a:visited {
+  color: #0066cc;
+}
+
+.page__content a:hover,
+.page__content a:focus {
+  color: #004c99;
+}
